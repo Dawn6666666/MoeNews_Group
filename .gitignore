@@ -1,0 +1,21 @@
+# Java / Maven
+target/
+backend/target/
+*.class
+
+# Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Runtime uploads and logs
+logs/
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.iml
